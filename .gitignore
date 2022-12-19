@@ -13,3 +13,5 @@
 /android/.externalNativeBuild
 /android/.cxx
 /android/local.properties
+
+/node_modules

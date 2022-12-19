@@ -1,0 +1,8 @@
+{
+  "name": "poc-native-vs-rn",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  }
+}
