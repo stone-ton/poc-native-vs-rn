@@ -4,5 +4,9 @@
   "private": true,
   "scripts": {
     "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.70.6",
+    "react": "18.1.0"
   }
 }
